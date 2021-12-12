@@ -1,6 +1,6 @@
 # YOL-UST-YAPISINDA-MUHENDISLIK-COZUMLEMELERI--TEZ-
 Yol Üst Yapısında Mühendislik Çözümlemeleri Tez (Lisans)
-# HayvanTakipOtomasyonu
+
 # Bu  Proje 13.03.2019 Tarihinde, sonlandırılmıştır.Dosyalar kullanılabilir olmadığı için indirmenizin ve üzerinde çalışmanızın faydalı olmayacağını açıkça beyan ederim.
 # Havuzdan kaldırılmamıştır çünkü gerekli bazı kısımları projenin devamlılığı için ihtiyaç durumundadır dönüşüm gerçekleştirildiğinde kaldırılacaktır.
 
