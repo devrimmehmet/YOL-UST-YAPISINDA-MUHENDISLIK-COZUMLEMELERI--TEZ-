@@ -5,7 +5,5 @@ Yol Üst Yapısında Mühendislik Çözümlemeleri Tez (Lisans)
 # Havuzdan kaldırılmamıştır çünkü gerekli bazı kısımları projenin devamlılığı için ihtiyaç durumundadır dönüşüm gerçekleştirildiğinde kaldırılacaktır.
 
 # PROJENİN AKIBETİ #
-# Bu proje 13.03.2019 tarihinden itibaren c# pardus uyumluluk kapsamında yayınlanabilmesi için revize edilme çalışmalarına geçmiştir.
-# Süreç tamamlandığında tekrar yayınlanacaktır. 
-# Açık kaynak bir yazılım olarak Pardus(veya linux türevleri), Windows gibi farklı platformlarda ortak çalışması düşüncesi ile iptal edilmiş.
-# Tekrar revize çalışmaları sürecine girmiştir. Bu süreç içinde çalışmalarda kodlamadan çok wiki, ve işleyişin daha detaylı ve bilgilendirici olmasına karar verilmiştir.
+# Bu proje 13.03.2019 tarihinden itibaren 
+![](https://www.istanbulgercegi.com/uploaded/bilgilendirme/2012/buyuk/internetten-mezar-tasi-satisi-1514825679.jpg)
